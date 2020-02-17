@@ -1,7 +1,7 @@
 import numpy as np
 import sys
 # import lib.plotting as plotting
-mport plotting as plotting
+import plotting as plotting
 from matplotlib import pyplot as plt
 from matplotlib import pylab
 import matplotlib.gridspec as gridspec
